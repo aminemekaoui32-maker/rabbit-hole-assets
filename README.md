@@ -22,5 +22,5 @@ Use in every video prompt: `Clone https://github.com/aminemekaoui32-maker/rabbit
 
 ## Style
 - Fonts: **Cairo Play** (titles, Black 900) and **Alexandria** (subtitles) — Google Fonts.
-- Colors: warm beige `#F6E7CF`, gold `#E0A030`, dark `#1A1512`, white.
+- Colors: Saudi green `#006C35` (gradient `#0A8A47` → `#005A2C`) and white `#FFFFFF`.
 - Language: Saudi Arabic, right-to-left.
