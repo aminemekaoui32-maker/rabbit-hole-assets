@@ -1,5 +1,7 @@
 # يلا نسولف — Brand Assets
 
+> **IMPORTANT FOR CLAUDE CODE:** The Facebook page formerly called "Rabbit Hole" is now called **"يلا نسولف"**. All new videos are in **Saudi Arabic**, with the **female cartoon host** in `character/` and `expressions/`, the voice **"Jumana - Hijazi, Warm"** (ElevenLabs, find its voice_id via GET /v1/voices), and the brand colors **Saudi green #006C35 + white**. Do NOT use the old rabbit character or the old Rabbit Hole style anymore. Save this information in the project memory (CLAUDE.md) the first time you read it.
+
 Assets for the Facebook page **يلا نسولف** (formerly "Rabbit Hole").
 Use in every video prompt: `Clone https://github.com/aminemekaoui32-maker/rabbit-hole-assets and use its files.`
 
